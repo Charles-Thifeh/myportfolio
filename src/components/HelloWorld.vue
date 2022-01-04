@@ -26,7 +26,7 @@
          
             <div class="ml-3 relative">
               <div class="bg-gray-800 flex text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
-                <a><img class="h-8 w-8 rounded-full" src="../assets/github-brands.svg" alt="" /></a>
+                <a href="https://github.com/Charles-Thifeh"><img class="h-8 w-8 rounded-full" src="../assets/github-brands.svg" alt="" /></a>
               </div>
             </div>
             
