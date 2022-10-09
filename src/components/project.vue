@@ -26,6 +26,34 @@
 <script>
 const callouts = [
   {
+    name: 'Togolese in Nigeria',
+    description: 'Created for TIN association. HTML, CSS, JS, Tailwind Css, LARAVEL.',
+    imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/tin.png?raw=true',
+    imageAlt: 'tin nigeria',
+    href: 'http://tinnigeria.com',
+  },
+  {
+    name: 'DOSFS School Management System',
+    description: 'Created for deoasis solid foundation school. A Website and e-portal for educational purpose. HTML, CSS, JS,Tailwind Css, Bootstrap, LARAVEL.',
+    imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/dosfs.png?raw=true',
+    imageAlt: 'dosfs',
+    href: 'https://deoasissolidfoundation.com',
+  },
+  {
+    name: 'tic atelier Online School',
+    description: 'Created for tic atelier. An e-portal for educational purpose. HTML, CSS, JS, Tailwind Css, LARAVEL.',
+    imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/dashboard.png?raw=true',
+    imageAlt: 'tic atelier portal',
+    href: 'http://ticatelier.ticst.com.ng/',
+  },
+  {
+    name: 'Weather App',
+    description: 'A weatherapp using openweather api. React Js, HTML, CSS, JS.',
+    imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/weather.png?raw=true',
+    imageAlt: 'Weather app',
+    href: 'https://weatherappthifeh.netlify.app/',
+  },
+  {
     name: 'School e-Portal',
     description: 'Created for oakfield schools. An e-portal for educational purpose. HTML, CSS, JS, Bootstrap, LARAVEL.',
     imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/sportal.PNG?raw=true',
