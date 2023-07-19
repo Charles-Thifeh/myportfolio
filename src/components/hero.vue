@@ -6,9 +6,9 @@
         <div class="sm:max-w-lg">
             <p class="mt-4 text-xl text-gray-500">I am a fullstack developer</p>
           <h1 class="text-4xl font font-extrabold tracking-tight text-white sm:text-6xl">
-            Akinmusire Charles Boluwatife
+            Akande Omolore
           </h1>
-          <p class="mt-4 text-xl text-gray-500">BSc. in Computer Science, Diploma in Computer Networking and Web Development.</p>
+          <p class="mt-4 text-xl text-gray-500"></p>
         </div>
         <div>
           <div class="mt-10">
@@ -18,7 +18,6 @@
                 <div class="flex items-center float-right space-x-6 lg:space-x-8">
                   <div class="flex-shrink-0 float-right gap-y-6 lg:gap-y-8">
                     <div class="w-44 h-64 rounded-lg overflow-hidden float-right sm:opacity-0 lg:opacity-100">
-                      <img href="#" src="../assets/ct.jpg" alt="" class="w-full h-full object-center object-cover comein transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300" />
                     </div>
                    
                   </div>
@@ -27,7 +26,7 @@
               </div>
             </div>
            
-            <a href="https://wa.me/2347036467190" class="inline-block text-center border border-transparent rounded-md py-3 px-8 font-medium text-white transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300">Hire Me</a>
+            <a href="https://wa.me/17089150369" class="inline-block text-center border border-transparent rounded-md py-3 px-8 font-medium text-white transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300">Hire Me</a>
           </div>
         </div>
       </div>
