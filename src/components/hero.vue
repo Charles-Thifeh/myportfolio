@@ -8,7 +8,7 @@
           <h1 class="text-4xl font font-extrabold tracking-tight text-white sm:text-6xl">
             Akande Omolore
           </h1>
-          <p class="mt-4 text-xl text-gray-500"></p>
+          <p class="mt-4 text-xl text-gray-500">A passionate and enthusiastic web developer with 3+ years of experience. I love new challenges and new projects that helps me invest my skills and experience into succeeding them. I enjoy providing lasting solutions for businesses and firms through the web space.</p>
         </div>
         <div>
           <div class="mt-10">
