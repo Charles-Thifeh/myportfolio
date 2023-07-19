@@ -30,7 +30,7 @@ const callouts = [
     description: 'Created for TIN association. HTML, CSS, JS, Tailwind Css, LARAVEL.',
     imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/tin.png?raw=true',
     imageAlt: 'tin nigeria',
-    href: 'http://tinnigeria.com',
+    href: 'https://tin.ticst.com.ng',
   },
   {
     name: 'DOSFS School Management System',
@@ -73,13 +73,6 @@ const callouts = [
     imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/sweb.PNG?raw=true',
     imageAlt: 'oakfieldschools website',
     href: 'https://site.oakfieldschools.com',
-  },
-  {
-    name: 'My Portfolio',
-    description: 'Where you at right now. HTML, CSS, JS, VUE js, Tailwind CSS.',
-    imageSrc: 'https://github.com/Charles-Thifeh/myportfolio/blob/main/src/assets/mp.PNG?raw=true',
-    imageAlt: 'My Portfolio',
-    href: 'https://charlesthifeh.netlify.com',
   },
 ]
 
