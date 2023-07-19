@@ -41,27 +41,6 @@ const features = [
     icon: CodeIcon,
     href: "https://github.com/Charles-Thifeh"
   },
-  {
-    name: 'E-mail',
-    description:
-      'akinmusirecharles@gmail.com',
-    icon: MailIcon,
-    href: "mailto:akinmusirecharles@gmail.com"
-  },
-  {
-    name: 'LinkedIn',
-    description:
-      'Akinmusire Charles Boluwatife',
-    icon: InboxIcon,
-    href: "https://www.linkedin.com/in/akinmusire-charles-885020197"
-  },
-  {
-    name: 'WhatsApp',
-    description:
-      '+234 703 646 7190',
-    icon: PhoneIcon,
-    href: "https://wa.me/2347036467190"
-  },
 ]
 
 export default {
