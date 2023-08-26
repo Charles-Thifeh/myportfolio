@@ -26,7 +26,7 @@
               </div>
             </div>
            
-            <a href="https://wa.me/17089150369" class="inline-block text-center border border-transparent rounded-md py-3 px-8 font-medium text-white transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300">Hire Me</a>
+            <a href="https://wa.me/2347036467190" class="inline-block text-center border border-transparent rounded-md py-3 px-8 font-medium text-white transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300">Hire Me</a>
           </div>
         </div>
       </div>
